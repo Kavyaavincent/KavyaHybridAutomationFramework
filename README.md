@@ -1,20 +1,20 @@
-# 🚀 Hybrid Automation Framework (Java | Selenium | TestNG | Maven)
+#  Hybrid Automation Framework (Java | Selenium | TestNG | Maven)
 
 ### 🔹 Author: [Kavya A V](https://www.linkedin.com/in/kavya-av)
-📧 **Email:** kavyavincentav@gmail.com  
-📍 **Location:** Thiruvananthapuram, Kerala, India  
-💻 **GitHub:** [github.com/Kavyaavincent](https://github.com/Kavyaavincent)
+ **Email:** kavyavincentav@gmail.com  
+ **Location:** Thiruvananthapuram, Kerala, India  
+ **GitHub:** [github.com/Kavyaavincent](https://github.com/Kavyaavincent)
 
 ---
 
-## 🧩 Project Overview
+##  Project Overview
 This project demonstrates a **Hybrid Test Automation Framework** built using **Java**, **Selenium WebDriver**, **TestNG**, and **Maven**.  
 It follows the **Page Object Model (POM)** design pattern for better maintainability, scalability, and readability.  
 The framework can be easily integrated with **Jenkins** for CI/CD and supports reporting via **Extent Reports** or **Allure Reports**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 | Category | Tools / Technologies |
 |-----------|----------------------|
 | Programming Language | Java |
@@ -28,11 +28,11 @@ The framework can be easily integrated with **Jenkins** for CI/CD and supports r
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ---
 
-## ⚙️ Features
+##  Features
 ✅ Follows **Page Object Model (POM)**  
 ✅ Uses **TestNG annotations** for test management  
 ✅ Supports **data-driven testing** using parameters  
@@ -42,16 +42,16 @@ The framework can be easily integrated with **Jenkins** for CI/CD and supports r
 
 ---
 
-## 🧪 Example Test Execution Output
+##  Example Test Execution Output
 
 ---
 
-## 🪄 How to Run the Tests
-### 🔸 Using TestNG
+##  How to Run the Tests
+###  Using TestNG
 1️⃣ Open the project in IntelliJ IDEA or Eclipse.  
 2️⃣ Right-click on the `testng.xml` file → **Run As → TestNG Suite**.  
 3️⃣ Reports will be generated in the `test-output` folder.
 
-### 🔸 Using Maven (CLI)
+###  Using Maven (CLI)
 ```bash
 mvn clean test
